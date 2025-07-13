@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SkillSwap - Peer Learning Platform (React + Firebase)**
 - 🌱 I’m currently learning **Android Dev in Kotlin** & **Machine Learning**
-- 👨‍💻 All of my projects are available at [github.com/yashkadav](https://github.com/yashkadav)
+- 👨‍💻 All of my projects are available at [github.com/yashajaykadav](https://github.com/yashajaykadav)
 - 💬 Ask me about **React, Firebase, Kotlin, ML, Python**
 - 📫 Reach me at **yashkadav52@gmail.com**
 - ⚡ Fun fact: I’m into gym, coding & late-night hackathons 😄
@@ -28,15 +28,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashkadav&show_icons=true&theme=radical" alt="yashkadav stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkadav&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashajaykadav&show_icons=true&theme=radical" alt="yashajaykadav stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashajaykadav&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashkadav&theme=radical&margin-w=10&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yashajaykadav&theme=radical&margin-w=10&row=1&column=6" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 
 ### 📫 Connect with me  
 📧 yashkadav52@gmail.com  
-🌐 [GitHub](https://github.com/yashkadav)
+🌐 [GitHub](https://github.com/yashajaykadav)
 
 ---
 
