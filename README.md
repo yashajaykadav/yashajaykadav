@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashajaykadav/yashajaykadav/main/banner.png" alt="Yash Ajay Kadav Banner" />
+  <img src="https://github.com/yashajaykadav/yashajaykadav/blob/main/YashKadav.png" alt="Yash Ajay Kadav Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Yash Ajay Kadav</h1>
