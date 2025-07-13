@@ -28,23 +28,31 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![IoT](https://img.shields.io/badge/-IoT-blue?style=flat&logo=arduino)
 
----
+------
 
-### 🏆 Hackathons & Competitions
+### 📜 Certifications & Achievements
 
-- 🥇 Finalist – **Amity ODDO National Hackathon**
-- 🥈 Selected – **Avishkar Hackathon (Karad Govt. College)**
-- 💡 Active participant in multiple **coding challenges and tech contests**
+#### 🎓 Technical Certifications
+- 🧠 **Machine Learning (Green Skill Program)** – *Edunet Foundation*
+- 🌐 **IoT & Cybersecurity Workshop** – *Institute of Futuristic Technologies (IOFT)*, ADCET, Ashta – *April 2024*
+- 📊 **Google Analytics Certified** – *Google*, Valid: 2025–2026
+- 📡 **IoT Essentials Certification** – *EduSkills AICTE*
 
----
+ ------
 
-### 📜 Certifications
+#### 🏆 Hackathons & Challenges
+- 🥇 **Finalist** – *Amity ODDO National Hackathon*
+- 🥈 **Avishkar Hackathon Participant** – *Govt. College, Karad*
+- 💻 **CodeQuezt #21 Coding Challenge** – *Naukri Campus*, July 2025:contentReference[oaicite:0]{index=0}
+- 🧩 **Crack Govt Exam – SSC CGL #1** – *Naukri Campus*, July 2025:contentReference[oaicite:1]{index=1}
 
-- ✅ **Green Skill Machine Learning** – *Edunet Foundation*
-- 🌐 **IoT Certification** – *EduSkills AICTE*
-- 📑 Many more certifications in ML, Android, Firebase, and Git
+------
 
----
+#### 💫 HackerRank Skill Badges
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-5⭐-gold?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Java](https://img.shields.io/badge/Java-4⭐-silver?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3⭐-silver?style=for-the-badge&logo=hackerrank&logoColor=white)
+
 
 ### 🏅 HackerRank Achievements
 
