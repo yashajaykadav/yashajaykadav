@@ -46,8 +46,6 @@
 - 🔥 **SkillSwap** – Peer learning platform using React + Firebase  
 - 🌾 **Crop Disease Detection** – ML + PyTorch + MobileNetV2 + GUI  
 - 🛒 **Krishna Foods Android App** – Firebase + Realtime Orders + FCM  
-- 🧠 **SMS Spam Detection** – NLP + SVM + Tkinter GUI  
-- 🏥 **Healthcare App** – Android app to book appointments, tips & reports
 
 ---
 
