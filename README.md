@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashajaykadav/yashajaykadav/main/banner.png" alt="Yash Ajay Kadav Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Yash Ajay Kadav</h1>
 <h3 align="center">BTech CSE | Android Dev & Machine Learning Enthusiast | Firebase 🔥 Fan | Skill Builder 💡</h3>
 
