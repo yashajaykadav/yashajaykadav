@@ -56,6 +56,13 @@
 
 ---
 
+### 🏅 HackerRank Achievements
+
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-5⭐-gold?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Java](https://img.shields.io/badge/Java-4⭐-silver?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3⭐-silver?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
