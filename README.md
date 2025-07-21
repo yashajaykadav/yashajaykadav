@@ -2,21 +2,27 @@
   <img src="https://github.com/yashajaykadav/yashajaykadav/blob/main/YashKadav.png" alt="Yash Ajay Kadav Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Yash Ajay Kadav</h1>
-<h3 align="center">BTech CSE | Android Dev & Machine Learning Enthusiast | Firebase 🔥 Fan | Hackathon Finalist 💡</h3>
+<h1 align="center">Hey 👋, I'm Yash Ajay Kadav</h1>
+<h3 align="center">BTech CSE • Android & ML Enthusiast • Firebase Fanboy • Hackathon Finalist</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=650&lines=Turning+ideas+into+impactful+apps.;Code.+Learn.+Innovate.+Repeat.">
+</p>
 
 ---
 
-- 🔭 I’m currently working on **SkillSwap - Peer Learning Platform (React + Firebase)**
-- 🌱 I’m currently learning **Android Dev in Kotlin**, **Machine Learning**, and **IoT Integration**
-- 👨‍💻 All of my projects are available at [github.com/yashajaykadav](https://github.com/yashajaykadav)
+### 🚀 About Me
+
+- 🔭 Currently building **SkillSwap** – a peer learning platform with React + Firebase
+- 🌱 Learning **Android Dev (Kotlin)**, **Machine Learning**, and **IoT Integration**
 - 💬 Ask me about **React, Firebase, Kotlin, ML, Python, and IoT**
-- 📫 Reach me at **yashkadav52@gmail.com**
+- 👨‍💻 Check out my work: [github.com/yashajaykadav](https://github.com/yashajaykadav)
+- 📫 Reach me at: **yashkadav52@gmail.com**
 - ⚡ Fun fact: I hit the gym 💪 after writing ML models 😄
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
@@ -28,44 +34,40 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![IoT](https://img.shields.io/badge/-IoT-blue?style=flat&logo=arduino)
 
-------
+---
+
+### 🌟 Featured Projects
+
+- 🔥 **SkillSwap** — Peer learning platform (React + Firebase)  
+- 🌾 **Crop Disease Detection** — ML + PyTorch + MobileNetV2 + GUI  
+- 🛒 **Krishna Foods Android App** — Firebase + Real-Time Orders + FCM  
+- 🧠 **SMS Spam Detector** — NLP + SVM + Tkinter GUI  
+- 🏥 **Healthcare Android App** — Java + Firebase (appointments, health tips)
+
+---
 
 ### 📜 Certifications & Achievements
 
-#### 🎓 Technical Certifications
-- 🧠 **Machine Learning (Green Skill Program)** – *Edunet Foundation*
-- 🌐 **IoT & Cybersecurity Workshop** – *Institute of Futuristic Technologies (IOFT)*, ADCET, Ashta – *April 2024*
-- 📊 **Google Analytics Certified** – *Google*, Valid: 2025–2026
-- 📡 **IoT Essentials Certification** – *EduSkills AICTE*
-
- ------
+#### 🏅 Certifications
+- 🧠 **Machine Learning (Green Skill Program)** – Edunet Foundation
+- 🌐 **IoT & Cybersecurity Workshop** – IOFT, ADCET, Apr 2024
+- 📊 **Google Analytics Certified** – Google (2025–2026)
+- 📡 **IoT Essentials Certification** – EduSkills AICTE
 
 #### 🏆 Hackathons & Challenges
-- 🥇 **Finalist** – *Amity ODDO National Hackathon*
-- 🥈 **Avishkar Hackathon Participant** – *Govt. College, Karad*
-- 💻 **CodeQuezt #21 Coding Challenge** – *Naukri Campus*, July 2025:contentReference[oaicite:0]{index=0}
-- 🧩 **Crack Govt Exam – SSC CGL #1** – *Naukri Campus*, July 2025:contentReference[oaicite:1]{index=1}
+- 🥇 **Finalist:** Amity ODDO National Hackathon
+- 🥈 **Participant:** Avishkar Hackathon, Govt. College, Karad
+- 💻 **CodeQuezt #21 Coding Challenge** – Naukri Campus, July 2025
+- 🧩 **Crack Govt Exam – SSC CGL #1** – Naukri Campus, July 2025
 
-------
-
-#### 💫 HackerRank Skill Badges
+#### 💫 HackerRank Badges
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-5⭐-gold?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-4⭐-silver?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3⭐-silver?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 ---
 
-### 📍 Featured Projects
-
-- 🔥 **SkillSwap** – Peer learning platform using React + Firebase  
-- 🌾 **Crop Disease Detection** – ML + PyTorch + MobileNetV2 + GUI  
-- 🛒 **Krishna Foods Android App** – Firebase + Real-time Orders + FCM  
-- 🧠 **SMS Spam Detector** – NLP + SVM + Tkinter GUI  
-- 🏥 **Healthcare Android App** – Java + Firebase (appointments, health tips)
-
----
-
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashajaykadav&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -74,7 +76,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏅 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yashajaykadav&theme=radical&margin-w=10&row=1&column=6" />
@@ -82,13 +84,17 @@
 
 ---
 
-### 📫 Connect With Me
+### 🌐 Connect With Me
 
-- 📧 Email: **yashkadav52@gmail.com**  
-- 🔗 GitHub: [github.com/yashajaykadav](https://github.com/yashajaykadav)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yashkadav52@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashajaykadav)
 
 ---
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
+<!--
+**yashajaykadav/yashajaykadav** – thanks for stopping by! 🚀
+-->
