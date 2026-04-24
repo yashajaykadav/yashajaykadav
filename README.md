@@ -25,7 +25,7 @@
 * 📚 Preparing for **Software Developer roles**
 
 📫 Email: **[yashkadav52@gmail.com](mailto:yashkadav52@gmail.com)**
-🌐 GitHub: **github.com/yashajaykadav**
+
 
 ---
 
