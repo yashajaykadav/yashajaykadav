@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=yashajaykadav&color=orange&style=flat-square" alt="Visitor Count"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Yash Ajay Kadav</h1>
+<h1 align="center">Hi I'm Yash Ajay Kadav</h1>
 <h3 align="center">Software Developer • Java Backend • Android & Flutter Developer</h3>
 
 <p align="center">
@@ -15,21 +15,21 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-* 🎓 BTech Computer Science Student
-* 💻 Focused on **Software Development and Backend Systems**
-* ☕ Strong interest in **Java, Spring Boot, and API Development**
-* 📱 Building **Android and Flutter mobile applications**
-* 🚀 Developing real-world products and startup ideas
-* 📚 Preparing for **Software Developer roles**
+* BTech Computer Science Student
+*  Focused on **Software Development and Backend Systems**
+*  Strong interest in **Java, Spring Boot, and API Development**
+*  Building **Android and Flutter mobile applications**
+*  Developing real-world products and startup ideas
+*  Preparing for **Software Developer roles**
 
-📫 Email: **[yashkadav52@gmail.com](mailto:yashkadav52@gmail.com)**
+ Email: **[yashkadav52@gmail.com](mailto:yashkadav52@gmail.com)**
 
 
 ---
 
-# ⚙️ Tech Stack
+#  Tech Stack
 
 ## Programming Languages
 
@@ -66,7 +66,7 @@
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🔹 Krishna Foods Android Ordering App
 
@@ -139,7 +139,7 @@ C++ • Qt
 
 ---
 
-# 🏆 Hackathons
+#  Hackathons
 
 * Finalist – **Amity ODDO National Hackathon**
 * Participant – **Avishkar Hackathon**
@@ -147,7 +147,7 @@ C++ • Qt
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
 
@@ -165,7 +165,7 @@ C++ • Qt
 
 ---
 
-# 📈 Contribution Activity
+#  Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashajaykadav&theme=react-dark"/>
